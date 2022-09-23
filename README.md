@@ -10,7 +10,7 @@ The fixes should auto update thanks to the imports used.
 > PLEASE DO NOT OPEN ANY NEW ISSUES. IF YOU HAVE ANY QUESTIONS, [PLEASE JOIN THE DISCORD SERVER](https://discord.gg/mVDzu73Y26).
 
 
-Cumcord users can import using: `https://raw.githubusercontent.com/GreenMan36/Alexis Modern Discord/main/theme.css`
+Cumcord users can import using: `https://raw.githubusercontent.com/GreenMan36/Alexis-Modern-Discord-Theme/master/theme.css`
 
 Powercord users should clone this repo into their themes folder:
 `\replugged\themes`
